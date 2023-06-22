@@ -5,7 +5,7 @@ To create an API to print Hello World
 
 ## ALGORITHM:
 
-1) Create a spring boot project using Spring Initilzr.
+1) Create a spring boot project using Spring Initilzr
 2) Add required dependencies.
 3) Choose the configuration file type i.e, either Gradle or Maven.
 4) Add a method called hello in the Application.java program
